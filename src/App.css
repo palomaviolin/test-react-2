@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: lightgreen;
+  background-color: darkgreen;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -19,7 +19,12 @@
 }
 
 .App-link {
-  color: blueviolet;
+  color: blue;
+}
+
+h1 {
+  font-size: 120px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 @keyframes App-logo-spin {
